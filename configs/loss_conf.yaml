@@ -1,0 +1,10 @@
+CELoss:
+    params: None
+
+GBCosFace:
+    s: 32
+    min_cos_v: 0.5
+    max_cos_v: 0.7
+    margin: 0.16
+    update_rate: 0.01
+    alpha: 0.15

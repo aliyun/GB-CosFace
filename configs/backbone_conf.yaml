@@ -1,0 +1,19 @@
+MobileFaceNet:
+    feat_dim: 512
+    out_h: 7
+    out_w: 7
+
+iresnet18:
+    params: null
+
+iresnet34:
+    params: null
+
+iresnet50:
+    params: null
+
+iresnet100:
+    params: null
+
+iresnet200:
+    params: null

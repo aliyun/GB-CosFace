@@ -1,0 +1,3 @@
+BaseHead:
+    feat_dim: 512
+    num_class: 85742

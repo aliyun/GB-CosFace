@@ -1,0 +1,5 @@
+easydict==1.9
+mxnet
+sklearn
+onnx
+PyYAML==5.4.1
