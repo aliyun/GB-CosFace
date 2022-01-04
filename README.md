@@ -43,7 +43,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m torch.distributed.launch --nproc_
 
 ## Testing
 
-We release the GB-CosFace iresnet100 [model](http://virutalbuy-public.oss-cn-hangzhou.aliyuncs.com/share/GB-CosFace/models/backbone_paper.pth) in the original paper main text and the GB-MagFace [model](http://virutalbuy-public.oss-cn-hangzhou.aliyuncs.com/share/GB-CosFace/models/backbone_paper.pth) in the appendix.
+We release the GB-CosFace iresnet100 [model](http://virutalbuy-public.oss-cn-hangzhou.aliyuncs.com/share/GB-CosFace/models/backbone_paper.pth) in the original paper.
 
 ### Testing on IJBB
 ``` shell
